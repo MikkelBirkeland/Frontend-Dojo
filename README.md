@@ -8,6 +8,13 @@ Gruppene kan velge om de vil bruke enten Svelte eller ELM.
 
 På slutten av sesjonen møtes vi igjen for å vise frem resultatet og diskutere erfaringer.
 
+## Gjennomføringsplan
+
+1. Etter introkduksjon på Teams, deler vi oss inn i grupper på 2-3 personer
+2. Vi prøver å benytte Breakout Rooms på Teams når vi jobber i mindre grupper
+3. Installere det som trengs, og bare gønne på med oppgaven
+4. Kl 14.00 møtes vi igjen i hovedrommet på Teams for å diskutere og vise resultatet. 
+
 ## Oppgaven
 
 ### Brainstormer
@@ -30,6 +37,8 @@ Her er noe inspirasjon til videre funksjonalitet:
 - Lage relasjoner mellom ideer
 - Oprette prosjekter for å organisere ting
 - Slette en ide
+- Størrelsen på hvert inspill kan gjenspeile antall stemmer
+- Animasjoner når en ide blir opprettet og når det gis poeng
 
 Om en har mye tid til overs vil jeg anbefale å deploye applikasjonen til nettet.
 Da blir det lettere å vise den frem til andre.

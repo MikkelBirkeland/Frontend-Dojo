@@ -85,6 +85,7 @@ Om alt gikk etter planen, så er du klar til å begynne.
 Sjekk ut [tutorial](https://svelte.dev/tutorial/basics) for en introduksjon til Svelte.
 
 Jeg anbefaler [VSCode](https://code.visualstudio.com/) som editor.
+Det er også lurt å installere en Extension som heter Svelte for VSCode.
 
 Dersom en ikke får ting til å virke, sjekk ut denne online [sandboxen](https://codesandbox.io/s/svelte) for å teste ut
 Svelte uten å måtte installere noe.
